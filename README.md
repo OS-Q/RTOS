@@ -1,6 +1,5 @@
-﻿[![sites](adv/Qi.png)](http://www.qitas.cn)
-
-# RTOS
+﻿
+# 嵌入式RTOS
 
 ### 项目描述
 
@@ -21,4 +20,5 @@
 
 ---
 ## 为锻造最美之器
-[![sites](adv/qitas.jpg)](http://www.qitas.cn)
+
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
