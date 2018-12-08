@@ -1,0 +1,13 @@
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\Keil\ARM_Compiler\1.4.0\Source\EventRecorder.c
+.\flash\eventrecorder.o: .\RTE\_Simulation\RTE_Components.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM3\Include\ARMCM3.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\core_cm3.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_version.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_compiler.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\cmsis_armcc.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\Include\mpu_armv7.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM3\Include\system_ARMCM3.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\ARMCC\Bin\..\include\string.h
+.\flash\eventrecorder.o: C:\IDE\keil\ARM\PACK\Keil\ARM_Compiler\1.4.0\Include\EventRecorder.h
+.\flash\eventrecorder.o: .\RTE\Compiler\EventRecorderConf.h
