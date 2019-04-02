@@ -10,7 +10,7 @@
 
 ### FreeRTOS
 
-#### 参考资料
+- 参考资料
 
 * [FreeRTOS](freertos.org)
 * [FreeRTOS API Reference](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
@@ -19,14 +19,14 @@
 
 ###  uCOS-III
 
-#### 参考资料
+- 参考资料
 
 * [µOS++ Reference](http://micro-os-plus.github.io/develop/references/)
 
 
 ###  RaspberryPi
 
-#### 参考资料
+- 参考资料
 
 * [uCOS-II on Raspberry Pi](https://github.com/fmlab/ucos_RaspberryPi)
 * [Porting uCOSII to the raspberry pi A+/B+/2B](https://github.com/mopplayer/uCOSII_RPi)
